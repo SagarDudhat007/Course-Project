@@ -11,3 +11,7 @@ This article demonstrates how Power BI was used to analyze NYC Yellow Taxi data,
 
 ### Rangoli Kitchen's Data-Delivery Journey
 This article explores how Rangoli Kitchen leverages Azure-based cloud architecture to streamline tiffin services, optimize operations, and enhance customer satisfaction with real-time insights.[Link to the detailed report]([link here](https://github.com/SagarDudhat007/Course-Project/blob/main/Artical%20of%20Rangoli%20Kitchen's%20Data-Delivery%20Journey.pdf).)
+
+
+### Zomato Analytics PowerBI Dashboard
+This Power BI dashboard analyzes Zomato's operational data to improve customer satisfaction, optimize order values, and highlight top-performing restaurant partnerships for data-driven growth.[Link to the detailed report]([link here](https://github.com/SagarDudhat007/Course-Project/blob/main/Zomato%20Analysis.pdf).)
